@@ -13,6 +13,7 @@ Contents:
 
    expert_python
    art_of_community
+   sandbox
 
 Indices and tables
 ==================
